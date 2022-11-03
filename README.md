@@ -9,7 +9,7 @@ This is a solution to the [Fylo data storage component](https://www.frontendment
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/fylo-data-storage-component-Sym_G2ZEq)
-- Live Site URL: [Click here](https://iosebkhe.github.io/fylo-data-storage-component-master/)
+- Live Site URL: [Click here](https://fylodata-iosebkhe.netlify.app/)
 
 - Semantic HTML5 markup
 - CSS custom properties
